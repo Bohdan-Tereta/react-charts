@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import { LineChart } from './charts/lineChart';
 import { BarChart } from './charts/barChart';
