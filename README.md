@@ -1,4 +1,4 @@
-#React-charts - example of simple chart rendering with chart.js and react
+# React Charts - example of simple chart rendering with chart.js and react
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
